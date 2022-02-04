@@ -1,0 +1,7 @@
+Feature: Wordpress Login
+
+	Scenario: Testing the authentication
+		Given User go to the Website
+		When User click Sign page button
+		And User input username password and click Sign
+		Then User can Sign to the Website

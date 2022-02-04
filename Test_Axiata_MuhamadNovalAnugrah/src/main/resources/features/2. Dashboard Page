@@ -1,0 +1,5 @@
+Feature: Dashboard Page
+
+	Scenario: Testing Dashboard page
+		When User click menu Dashboard
+		Then User can go to Dashboard page

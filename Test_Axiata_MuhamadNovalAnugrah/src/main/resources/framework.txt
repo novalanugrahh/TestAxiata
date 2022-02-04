@@ -1,0 +1,5 @@
+browser=Firefox
+myusername=sqademo
+password=sqademo
+displayname=Akun Demo
+txt dashboard
